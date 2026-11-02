@@ -1,0 +1,29 @@
+# VS Code settings
+.vscode/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Datasets and data folders
+dataset/
+datasets/
+data/
+
+# CSV files
+*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
